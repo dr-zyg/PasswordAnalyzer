@@ -18,7 +18,6 @@ A modern Python desktop application to analyze password strength, detect risky p
 ```bash
 git clone https://github.com/yourusername/PasswordAnalyzer.git
 cd PasswordAnalyzer
-cd PasswordAnalyzer
 ```
 
 **2️⃣ Install the required Python libraries:**
@@ -28,5 +27,5 @@ pip install -r requirements.txt
 
 3️⃣ Run the application:
 ```bash
-python alternative_modern_gui.py
+python PasswordAnalyzer.py
 ```

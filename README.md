@@ -10,8 +10,7 @@ A modern Python desktop application to analyze password strength, detect risky p
 ✅ Score password strength in real time  
 ✅ Detect sequential & repetitive characters (e.g., "1234", "aaaa")  
 ✅ Check against known data breaches (HaveIBeenPwned API)  
-✅ Modern, scrollable GUI built with Tkinter and ttk  
-✅ Visual feedback: progress bar, colored tags, detailed recommendations
+✅ GUI built with Tkinter and ttk  
 
 ---
 

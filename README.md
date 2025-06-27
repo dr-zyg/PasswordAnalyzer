@@ -2,7 +2,7 @@
 
 A modern Python desktop application to analyze password strength, detect risky patterns, and check for data leaks – with a beautiful Tkinter interface.
 
-![Screenshot](https://your-screenshot-url.png) <!-- Optional: replace with real screenshot -->
+![Screenshot](https://github.com/dr-zyg/password-analyzer-app/blob/main/screenshot.png)
 
 ---
 

@@ -4,7 +4,6 @@ A modern Python desktop application to analyze password strength, detect risky p
 
 ![Screenshot](https://github.com/dr-zyg/password-analyzer-app/blob/main/screenshot.png)
 
----
 
 ## 🚀 Features
 ✅ Score password strength in real time  
@@ -12,7 +11,6 @@ A modern Python desktop application to analyze password strength, detect risky p
 ✅ Check against known data breaches (HaveIBeenPwned API)  
 ✅ GUI built with Tkinter and ttk  
 
----
 
 ## 🛠 Installation
 

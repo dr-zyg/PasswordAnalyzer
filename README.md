@@ -16,7 +16,7 @@ A modern Python desktop application to analyze password strength, detect risky p
 
 **1️⃣ Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/PasswordAnalyzer.git
+git clone https://github.com/dr-zyg/PasswordAnalyzer.git
 cd PasswordAnalyzer
 ```
 

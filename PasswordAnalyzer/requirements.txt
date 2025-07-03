@@ -1,2 +1,2 @@
 requests
-tkinter
+tkinter==8.5
